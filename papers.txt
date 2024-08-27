@@ -1,0 +1,8 @@
+PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks: https://aclanthology.org/2022.acl-long.292.pdf
+Controlled Text Generation for Data Augmentation in Intelligent Artificial Agents: https://aclanthology.org/D19-5609.pdf
+Increasing Diversity While Maintaining Accuracy: Text Data Generation with Large Language Models and Human Interventions: https://aclanthology.org/2023.acl-long.34.pdf
+Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitations: https://aclanthology.org/2023.emnlp-main.647.pdf
+Making Large Language Models Better Data Creators: https://aclanthology.org/2023.emnlp-main.948.pdf
+Generating Training Data with Language Models: Towards Zero-Shot Language Understanding: https://arxiv.org/pdf/2202.04538
+Efficient Zero-shot Learning via Dataset Generation: https://arxiv.org/pdf/2202.07922
+DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM Workflows: https://aclanthology.org/2024.acl-long.208.pdf

@@ -1,0 +1,5 @@
+Data Generation Request: NLU training data for intent entity classifier.
+Instructions:
+1. For each intent of {intents}, provide {number} training samples.
+2. Annotate each utterance with entities.
+3. Avoid including any explanations in the output.
